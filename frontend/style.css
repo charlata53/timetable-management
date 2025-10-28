@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; padding: 2em; }
+h1 { color: #3e4ba8; }
+#timetable { margin-top: 1em; }
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid #ccc; padding: 0.5em; text-align: center; }
+th { background-color: #f6f6fa; }
